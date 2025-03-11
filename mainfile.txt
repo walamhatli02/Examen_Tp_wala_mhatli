@@ -1,3 +1,4 @@
+void compare (int T[],int n);
 void main () {
 int T[10]; int n;
 compare (T , n);
